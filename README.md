@@ -1,2 +1,2 @@
 # C-Algos
-First repository including some C Algorithms
+First repository including some C/C++ Algorithms
